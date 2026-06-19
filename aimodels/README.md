@@ -25,17 +25,16 @@ The CSV uses semicolon (`;`) as delimiter and has the following columns:
 | | Provider | Chat URL (Deep Link) |
 |:---:|---|---|
 | <img src="https://www.google.com/s2/favicons?domain=together.ai&sz=32" width="20" height="20"> | Together.ai | [https://chat.together.ai/?q=](https://chat.together.ai/?q=) |
+| <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="20" height="20"> | Perplexity.ai | [https://perplexity.ai/search?q=](https://perplexity.ai/search?q=) |
 | <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20"> | Grok.com | [https://grok.com/?q=](https://grok.com/?q=) |
 | <img src="https://cdn.simpleicons.org/github/181717" width="20" height="20"> | Github.com | [https://github.com/copilot?prompt=](https://github.com/copilot?prompt=) |
 | <img src="https://cdn.simpleicons.org/mistral/FF7000" width="20" height="20"> | Mistral.ai | [https://chat.mistral.ai/chat?q=](https://chat.mistral.ai/chat?q=) |
 | <img src="https://cdn.simpleicons.org/meta/0082FB" width="20" height="20"> | Meta.ai | [https://meta.ai/?prompt=](https://meta.ai/?prompt=) |
-| <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="20" height="20"> | Perplexity.ai | [https://perplexity.ai/search?q=](https://perplexity.ai/search?q=) |
 | <img src="https://www.google.com/s2/favicons?domain=you.com&sz=32" width="20" height="20"> | You.com | [https://you.com/search/?q=](https://you.com/search/?q=) |
 | <img src="https://www.google.com/s2/favicons?domain=kagi.com&sz=32" width="20" height="20"> | Kagi.com | [https://kagi.com/assistant?q=](https://kagi.com/assistant?q=) |
 | <img src="https://www.google.com/s2/favicons?domain=app.blackbox.ai&sz=32" width="20" height="20"> | Blackbox.ai | [https://app.blackbox.ai/chat?q=](https://app.blackbox.ai/chat?q=) |
 | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="20" height="20"> | HuggingFace.co | [https://huggingface.co/chat/?prompt=](https://huggingface.co/chat/?prompt=) |
 | <img src="https://www.google.com/s2/favicons?domain=consensus.app&sz=32" width="20" height="20"> | Consensus.app | [https://consensus.app/results/?q=](https://consensus.app/results/?q=) |
-| <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="20" height="20"> | Labs.Perplexity.ai | [https://labs.perplexity.ai/?q=](https://labs.perplexity.ai/?q=) |
 | <img src="https://cdn.simpleicons.org/openai/412991" width="20" height="20"> | ChatGPT.com | [https://chatgpt.com/?prompt=](https://chatgpt.com/?prompt=) |
 | <img src="https://cdn.simpleicons.org/baidu/2932E1" width="20" height="20"> | Yiyan.Baidu.com | [https://yiyan.baidu.com/?q=](https://yiyan.baidu.com/?q=) |
 | <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="20" height="20"> | Gemini.Google.com | [https://gemini.google.com/app?q=](https://gemini.google.com/app?q=) |
