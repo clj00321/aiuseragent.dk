@@ -1,7 +1,4 @@
 ## AI Chat Providers
-
-> **Auto-generated from `aimodels.csv`** — Last updated: [auto-updated on CSV changes]
-
 | | Provider | Chat URL (Deep Link) |
 |:---:|---|---|
 | <img src="https://www.google.com/s2/favicons?domain=moonshot.ai&sz=128" width="20" height="20"> | MoonShot.ai | [https://chat.together.ai/?model=Kimi-K2.6&q=](https://chat.together.ai/?model=Kimi-K2.6&q=) |
