@@ -1,4 +1,5 @@
 ## AI Chat Providers
+
 | | Provider | Chat URL (Deep Link) |
 |:---:|---|---|
 | <img src="https://cdn.simpleicons.org/01ai/000000" width="20" height="20"> | 01.AI Yi Chat | [https://chat.01.ai/?q=](https://chat.01.ai/?q=) |
