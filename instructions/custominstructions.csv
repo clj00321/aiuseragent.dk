@@ -1,2 +1,3 @@
 Brugerdefineret Instruction (Title);Brugedefineret Instruction (Code)
 Timestamp;Always append lineshift and afterwards a time-tracking block to the very end of EVERY response. Use Danish time (CET/CEST) in 24-hour format. Calculate or estimate the elapsed metrics based on the session's context. The format to append is: \n📅 YYYY-MM-DD ⏰ HH:MM\n⏳ Wait time: [X] min\n⏳ Total time: [Y]h [Z] min
+Priority;Response order Lead with the actionable answer first. Follow with the explanation only after, and keep it concise.
