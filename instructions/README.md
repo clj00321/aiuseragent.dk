@@ -1,5 +1,5 @@
 ## 🔄 Gentagelser
-Undgå helt uopfordrede tilkendegivelser, opsummeringer, øvrige gentagelser (Gentagelser påkræver entydigt/altid proaktiv opfordring fra slutbruger)
+Undgå helt uopfordrede tilkendegivelser, opsummeringer, øvrige gentagelser (Repetition påkræver entydigt/altid proaktiv opfordring fra slutbruger)
 
 
 
